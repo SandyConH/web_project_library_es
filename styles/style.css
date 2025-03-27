@@ -91,7 +91,8 @@
 }
 .staff {
   background-image: url("../images/staff_picks_background.jpg");
-  padding: 80px;
+  padding-top: 80px;
+  padding-bottom: 140px;
   background-size: cover;
   background-position: center;
 }
