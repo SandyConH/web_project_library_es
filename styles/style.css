@@ -40,7 +40,7 @@
 }
 
 .nav__link {
-  color: #080808;
+  color: #000000;
   text-decoration: none;
   font-weight: bold;
 }
@@ -64,6 +64,7 @@
   max-width: 515px;
   font-size: 20px;
   line-height: 30px;
+  margin: 32px 0 0;
 }
 
 .header__image {
@@ -114,7 +115,7 @@
 }
 .staff__cards {
   max-width: 760px;
-  margin: 68px auto;
+  margin: 68px auto 0;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
